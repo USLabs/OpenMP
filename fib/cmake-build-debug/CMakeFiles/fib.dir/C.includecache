@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Umang/CLionProjects/fib/common.c
+common.h
+C:/Users/Umang/CLionProjects/fib/common.h
+
+C:/Users/Umang/CLionProjects/fib/common.h
+sys/time.h
+-
+stdlib.h
+-
+stdbool.h
+-
+math.h
+-
+
+C:/Users/Umang/CLionProjects/fib/fibo.c
+
+C:/Users/Umang/CLionProjects/fib/stream_fibo.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+complex.h
+-
+getopt.h
+-
+common.h
+C:/Users/Umang/CLionProjects/fib/common.h
+sync.h
+C:/Users/Umang/CLionProjects/fib/sync.h
+unistd.h
+-
+
+C:/Users/Umang/CLionProjects/fib/stream_recursive_fibo.c
+
+C:/Users/Umang/CLionProjects/fib/sync.h
+
